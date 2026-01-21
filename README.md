@@ -1,4 +1,5 @@
 TIC TAC TOE GAME (JAVA)
+
 PROJECT DESCRIPTION:
 
 This project is a command-line based Tic Tac Toe game developed using Java.
@@ -33,6 +34,7 @@ Detects draw condition.
 Option to replay the game.
 
 HOW TO RUN THE PROGRAM:
+
 STEP 1: CLONE OR DOWNLOAD THE REPOSITORY
 
 git clone <repository-link>
@@ -67,8 +69,8 @@ Players can choose to play again after the game ends.
 PROJECT STRUCTURE:
 
 TicTacToe/
-├── TicTacToe.java
-└── README.md
+ TicTacToe.java
+ README.md
 
 SAMPLE OUTPUT:
 
