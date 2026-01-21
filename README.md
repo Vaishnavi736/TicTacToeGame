@@ -87,5 +87,7 @@ How to Play:
 The game is played on a 3x3 grid.
 
 Player X goes first, followed by Player O.
+
 Player X, enter your move (row column):
+
 0 0
