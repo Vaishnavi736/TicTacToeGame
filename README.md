@@ -33,6 +33,7 @@ Detects draw condition.
 
 Option to replay the game.
 
+
 HOW TO RUN THE PROGRAM:
 
 STEP 1: CLONE OR DOWNLOAD THE REPOSITORY
@@ -47,6 +48,7 @@ javac TicTacToe.java
 STEP 3: RUN THE PROGRAM
 
 java TicTacToe
+
 
 HOW TO PLAY:
 
@@ -66,11 +68,13 @@ If all cells are filled and no player wins, the game ends in a draw.
 
 Players can choose to play again after the game ends.
 
+
 PROJECT STRUCTURE:
 
 TicTacToe/
  TicTacToe.java
  README.md
+
 
 SAMPLE OUTPUT:
 
