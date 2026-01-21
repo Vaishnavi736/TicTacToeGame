@@ -62,7 +62,7 @@ class TicTacToe {
                 return true;
         }
 
-        if (board[0][0] == currentPlayer &&cboard[1][1] == currentPlayer && board[2][2] == currentPlayer)
+        if (board[0][0] == currentPlayer && board[1][1] == currentPlayer && board[2][2] == currentPlayer)
             return true;
 
         if (board[0][2] == currentPlayer && board[1][1] == currentPlayer && board[2][0] == currentPlayer)
